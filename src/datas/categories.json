@@ -1,0 +1,15 @@
+[
+    {
+        "id" : 1,
+        "name" : "Animaux",
+        "slug" : "animaux"
+    },
+
+    {
+        "id" : 2,
+        "name" : "Cinéma",
+        "slug" : "cinema"
+    }
+
+
+]

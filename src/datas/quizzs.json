@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "name" : "Star Wars",
+        "slug" : "star-wars",
+        "id_categorie" : 2
+    },
+
+    {
+        "id" : 2,
+        "name" : "Animaux du froid",
+        "slug" : "animaux-du-froid",
+        "id_categorie" : 1
+    },
+
+    {
+        "id" : 3,
+        "name" : "Kaamelott",
+        "slug" : "kaamelott",
+        "id_categorie" : 2
+    }
+]

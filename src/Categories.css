@@ -1,0 +1,12 @@
+.categories{
+    width: 75%;
+}
+
+
+.categorie{
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 3px;
+    width: 30%;
+    text-align : center;
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title" : "Je suis ...",
+        "answers" : ["malade","ta mère","ton père","pas là"],
+        "correct": 2,
+        "id_quizz" : 1
+    },
+
+    {
+        "id": 2,
+        "title" : "Obiwan ...",
+        "answers" : ["Kenobi","Skywalker","Yoda","Palpatine"],
+        "correct": 0,
+        "id_quizz" : 1
+    },
+
+    {
+        "id": 3,
+        "title" : "Qu’étudie un arachnologue ?",
+        "answers" : ["Rat","Serpent","Araignée","Aigle"],
+        "correct": 2,
+        "id_quizz" : 2
+    },
+
+    {
+        "id": 4,
+        "title" : "Qu’est-ce qu’une pipistrelle ?",
+        "answers" : ["Une brebis","Une chauve-souris","Une girafe","Une otarie"],
+        "correct": 1,
+        "id_quizz" : 2
+    },
+
+    {
+        "id": 5,
+        "title" : "Parfois je me sens incipide",
+        "answers" : ["C'est pas faux","Côtelette","Le gras c'est la vie","Kamoulox"],
+        "correct": 0,
+        "id_quizz" : 3
+    }
+]
